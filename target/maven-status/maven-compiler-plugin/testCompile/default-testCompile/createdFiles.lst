@@ -1,0 +1,9 @@
+appium\capabilities\Load_capabilities$1.class
+appium\capabilities\AndroidDevicesCapabilities.class
+appium\stepsdefinitions\ListFilmSteps.class
+appium\stepsdefinitions\ListFilmes.class
+appium\stepsdefinitions\FavoritosFilmSteps.class
+appium\capabilities\Load_capabilities.class
+appium\stepsdefinitions\BaseScreen.class
+appium\runner\CucumberRunnerTest.class
+appium\stepsdefinitions\FavoritoFilmes.class
